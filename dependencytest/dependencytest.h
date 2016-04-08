@@ -14,4 +14,4 @@ FOUNDATION_EXPORT double dependencytestVersionNumber;
 //! Project version string for dependencytest.
 FOUNDATION_EXPORT const unsigned char dependencytestVersionString[];
 
-#import "SomeClass"
+#import "SomeClass.h"
